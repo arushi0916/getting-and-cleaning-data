@@ -5,6 +5,7 @@ One of the most developing areas right now is wearable computing. Companies like
 Here, data collected from the accelerometer and gyroscope of the Samsung Galaxy S smartphone was retrieved and cleaned, to get a tidy dataset.
 
 This repository contains the following files:
+
 README.md, describes the dataset and the project.
 tidy_data.txt, which contains the tidy dataset.
 CodeBook.md, describes the contents of the dataset.
